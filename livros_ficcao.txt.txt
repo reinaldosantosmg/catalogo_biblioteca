@@ -1,0 +1,5 @@
+3.	O Senhor dos Anéis,J.R.R. Tolkien,Fantasia
+4.	Orgulho e Preconceito,Jane Austen,Romance
+5.	1984,George Orwell,Ficção Científica
+6.	Dom Casmurro,Machado de Assis,Romance
+7.	Neuromancer,William Gibson,Cyberpunk
