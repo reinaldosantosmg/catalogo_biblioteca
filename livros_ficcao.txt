@@ -3,3 +3,7 @@
 5.	1984,George Orwell,Ficção Científica
 6.	Dom Casmurro,Machado de Assis,Romance
 7.	Neuromancer,William Gibson,Cyberpunk
+7.	O Pequeno Príncipe,Antoine de Saint-Exupéry,Fábula
+8.	Harry Potter e a Pedra Filosofal,J.K. Rowling,Fantasia
+9.	Cem Anos de Solidão,Gabriel García Márquez,Realismo Mágico
+
